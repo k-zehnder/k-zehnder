@@ -8,10 +8,25 @@
 
 📝 Check my Github out here: www.github.com/k-zehnder
 
-💡 Technologies I work with:
-
-⭕️. Languages: Python, HTML, CSS
-⭕️. Frameworks: Flask, Scrapy
-⭕️. Libraries: Pandas, NumPy, OpenCV
-⭕️. Database: Flask-SQLAlchemy
-⭕️. Misc: GIT, Linux, Nginx, uWSGI, RaspberryPi
+<h2>💡 Technologies I work with:</h2>
+<dl>
+  <dt>⭕️. Languages</dt>
+  <dd>- Python</dd>
+  <dd>- HTML</dd>
+  <dd>- CSS</dd>
+  <dt>⭕️. Frameworks</dt>
+  <dd>- Flask</dd>
+  <dd>- Scrapy</dd>
+  <dt>⭕️. Libraries</dt>
+  <dd>- Pandas</dd>
+  <dd>- NumPy</dd>
+  <dd>- OpenCV</dd>
+  <dt>⭕️. Database</dt>
+  <dd>- Flask-SQLAlchemy</dd>
+  <dt>⭕️. Misc</dt>
+  <dd>- GIT</dd>
+  <dd>- Linux</dd>
+  <dd>- Nginx</dd>
+  <dd>- uWSGI</dd>
+  <dd>- Raspberry Pi</dd>
+</dl>
