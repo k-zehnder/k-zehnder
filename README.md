@@ -6,6 +6,6 @@
 
 👀 View my portfolio here: www.meet-kevin-z.com
 
-📝 Check my Github out here: www.github.com/k-zehnder
+📝 Email me here: kjzehnder3@gmail.com
 
 
