@@ -8,7 +8,4 @@
 
 📝 Check my Github out here: www.github.com/k-zehnder
 
-![image](https://user-images.githubusercontent.com/51463990/124964459-e6e92800-dfd5-11eb-8f8c-b4c31e6a9b38.png) Email me here: kjzehnder3@gmail.com
-
-
 
