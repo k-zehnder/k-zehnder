@@ -4,7 +4,7 @@
 
 💼 Excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
 
-📶 View my resume here: https://shorturl.at/jrzK0
+📶 View my resume here: https://bit.ly/3lMcsnI
 
 👀 View my portfolio here: www.meet-kevin-z.com
 
