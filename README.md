@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=k-zehnder)
 
-🚩 Kevin Zehnder is a software engineer who loves working on a team and making those around him better. Kevin has been obsessed with perfecting his craft since “Hello World” hit the console of his first application, and has a history of finding creative solutions to complex problems while working in teams of various sizes and skill compositions.
+🚩 Kevin Zehnder loves making those around him better and is looking to land his first job as a software engineer.
 
-💼 Excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
+🔎 Check out what I'm learning here: https://www.thesnakepit.net/
 
 📶 View my resume here: https://bit.ly/3LFPVDH
 
