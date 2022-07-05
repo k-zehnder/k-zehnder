@@ -4,7 +4,7 @@
 
 🔎 Check out what I'm learning here: https://www.thesnakepit.net/
 
-📶 View my resume here: https://bit.ly/3LFPVDH
+📶 View my resume here: https://bit.ly/3Av8fx6
 
 👀 View my portfolio here: www.meet-kevin-z.com
 
