@@ -2,7 +2,7 @@
 
 🚩 Kevin Zehnder loves learning and is looking to land his first job as a software engineer.
 
-🔎 Check out what I'm learning here: www.thesnakepit.net/
+🔎 Check out what I'm learning here: www.thesnakepit.net
 
 📶 View my resume here: https://bit.ly/3aHYAso
 
