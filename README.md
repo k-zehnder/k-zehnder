@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=k-zehnder)
 
-🚩 Kevin Zehnder loves learning and is looking to land his first job as a software engineer.
+🚩 Thanks for stopping by 🙂
 
 🔎 Check out what I'm learning here: www.thesnakepit.net
 
